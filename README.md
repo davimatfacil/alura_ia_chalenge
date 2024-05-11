@@ -34,4 +34,4 @@ Resumindo, foi gasto 1%(60 minutos) do tempo(7200 minutos) que  estimo que levar
 e com conhecimentos intermediários  de IA generativa poderia levar( sem usar APIS prontas como eu usei)
 ## 💭 Reflexão (Opcional)
 Foi interessante verificar a rapidez de criação do aplicativo e do chat. Se fosse em uma empresa a economia de tempo seria tremenda.
-Observando que a IA generativa nesse caso me ajudou a ser muito mais efetivo e eficiente!!
+Observando que a Gemini nesse caso me ajudou a ser muito mais efetivo e eficiente!!
