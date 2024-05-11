@@ -1,4 +1,4 @@
-# Criação de um aplicativo de chat no stremlit e Gemini
+# Criação de um aplicativo de chat no streamlit e Gemini
 
 ## 🚀 Introdução
 
@@ -13,7 +13,7 @@ Sou o Davi Rocha. Mestre em Matemática Aplicada e apaixonado por dados.
 1. **Explorar IAs Generativas**: Utilizei o Gemini para criar tanto o aplicativo quanto o chatbot
 
 
-### Template
+### Descrição do Projeto
 
 ```markdown
 # Criação de chatbot em minutos ;)
