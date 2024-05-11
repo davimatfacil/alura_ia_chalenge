@@ -33,5 +33,5 @@ Crie um aplicativo streamlit e o chatbot em poucos minutos. O que do zero poderi
 Resumindo, foi gasto 1%(60 minutos) do tempo(7200 minutos) que  estimo que levaria para um programador com conhecimento em Python
 e com conhecimentos intermediários  de IA generativa poderia levar( sem usar APIS prontas como eu usei)
 ## 💭 Reflexão (Opcional)
-Foi interessante verificar a rapidez de criação do aplicativo e so chat. Se fosse em uma empresa a economia de tempo seria tremenda.
+Foi interessante verificar a rapidez de criação do aplicativo e do chat. Se fosse em uma empresa a economia de tempo seria tremenda.
 Observando que a IA generativa nesse caso me ajudou a ser mais muito mais efetivo e eficiente!!
