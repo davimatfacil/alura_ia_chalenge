@@ -22,7 +22,7 @@ Sou o Davi Rocha. Mestre em Matemática Aplicada e apaixonado por dados.
 Usei o Gemini para criar um aplicativo no streamlit  e o chatbot com auxilio do gemini
 
 ## 🤖 Tecnologias Utilizadas
-Gemini, IA Generativa Python e Streamlit
+Gemini, IA Generativa, Python e Streamlit
 
 ## 🧐 Processo de Criação
 Com as aulas da imersão fui capaz de desenvolver o chatbot e o aplicativo
